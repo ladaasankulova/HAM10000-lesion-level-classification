@@ -1,0 +1,23 @@
+# Veri seti (HAM10000 — Harvard Dataverse üzerinden indirilir)
+data/
+
+# Eğitilmiş model ağırlıkları (dosya boyutu nedeniyle hariç tutulmuştur)
+models/
+*.pth
+
+# Python önbelleği
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sanal ortam
+venv/
+.venv/
+env/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini
