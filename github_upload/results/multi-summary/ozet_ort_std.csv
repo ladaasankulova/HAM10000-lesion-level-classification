@@ -1,0 +1,5 @@
+model,acc_mean,acc_std,macro_f1_mean,macro_f1_std,weighted_f1_mean,weighted_f1_std
+DenseNet121,77.39,1.0,69.09,2.24,78.62,0.58
+ConvNeXt-Tiny,75.92,0.87,65.94,2.52,77.29,0.93
+ResNet50,75.97,1.43,66.03,3.46,77.45,1.1
+EfficientNet-B3,76.61,1.18,65.85,0.86,77.95,0.95

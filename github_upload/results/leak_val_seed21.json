@@ -1,0 +1,18 @@
+{
+  "DenseNet121": {
+    "acc": 88.29,
+    "macro_f1": 88.22
+  },
+  "ConvNeXt-Tiny": {
+    "acc": 85.14,
+    "macro_f1": 85.0
+  },
+  "ResNet50": {
+    "acc": 83.71,
+    "macro_f1": 83.7
+  },
+  "EfficientNet-B3": {
+    "acc": 81.43,
+    "macro_f1": 81.25
+  }
+}
